@@ -228,7 +228,7 @@ def se_block_4_(input1,
 
 
 
-def AC_M_UNet(inputs1,
+def MO_AGUNet(inputs1,
               inputs2,
               num_class=1,
               is_training=True,
